@@ -4,6 +4,7 @@ A Gradio-based chat app that fetches the transcript of any YouTube video and wri
 
 ---
 
+
 ## Features
 
 - **Chat interface** — conversational flow that asks for a YouTube URL, then generates the notes
